@@ -1,8 +1,8 @@
-# Group TEAM_NUMBER
-Group Name: TEAM_NAME
+# Group 34
+Group Name: Block Runner
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/139vHS9nRXUEFZXBl5pgjXmi9hNHhIW8yPfAmspazA9E/edit?usp=sharing)
 
-Team Members: STUDENTS_NETIDS
+Team Members: somyas3, nathan30, az16, noahev3, djs16
 
-Project Manager: PM_NETID
+Project Manager: dhruvks2
